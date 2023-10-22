@@ -1,0 +1,17 @@
+,plots,treatment,block1,block2,Response
+1,101,C,Car1,Driver1,24
+2,201,A,Car2,Driver1,23
+3,301,D,Car3,Driver1,17
+4,401,B,Car4,Driver1,25
+5,102,D,Car1,Driver2,15
+6,202,B,Car2,Driver2,28
+7,302,A,Car3,Driver2,16
+8,402,C,Car4,Driver2,26
+9,103,A,Car1,Driver3,18
+10,203,C,Car2,Driver3,27
+11,303,B,Car3,Driver3,26
+12,403,D,Car4,Driver3,19
+13,104,B,Car1,Driver4,24
+14,204,D,Car2,Driver4,18
+15,304,C,Car3,Driver4,22
+16,404,A,Car4,Driver4,23
